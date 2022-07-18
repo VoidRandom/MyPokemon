@@ -7,6 +7,6 @@ import java.util.List;
 public class PokeType {
     private String name;
     private String chName;
-    private List<PokeType> defendBonus;
-    private List<PokeType> defendWeaken;
+    private String defendBonus;
+    private String defendWeaken;
 }

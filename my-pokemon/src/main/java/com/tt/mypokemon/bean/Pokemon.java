@@ -8,8 +8,9 @@ public class Pokemon implements EvolutionAction{
     private int id;
     private String name;
     private String chName;
-    private Ability ability;
-    private List<PokeType> pokeTypes;
+    private String ability;
+    private String pokeType1;
+    private String pokeType2;
     private int pre;
     private int next;
 
